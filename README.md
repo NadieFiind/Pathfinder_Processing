@@ -9,4 +9,6 @@ The points are randomly generated.
 The map is drawn using an image. Non-transparent pixels are the paths.
 To change the map, change the [map.png](data/map.png).
 
+I made this project before because I was a delivery guy. I thought it would be cool if I can determine the shortest path when going to places. (Completely ignoring the existence of Google Maps XD)
+
 <sub>Date Created: 2020?</sub>
