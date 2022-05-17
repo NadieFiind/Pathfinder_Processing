@@ -2,7 +2,7 @@
 > A program that finds the shortest possible path between two points.
 
 A [Processing for Android](https://android.processing.org/) sketch written using [APDE](https://github.com/Calsign/APDE).
-To run the project, download APDE on [Google Play Store](https://play.google.com/store/apps/details?id=com.calsignlabs.apde).
+To run the project, download APDE on [Google Play Store](https://play.google.com/store/apps/details?id=com.calsignlabs.apde) or install the [Pathfinder.apk](Pathfinder.apk).
 
 Pathfinder uses [Dijkstra's algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm) to determine the shortest possible path between point A and point B.
 The points are randomly generated.
